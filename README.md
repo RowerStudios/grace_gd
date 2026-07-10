@@ -3,4 +3,4 @@
 
 READ TERMS OF SERVICE BEFORE CONTINUING!
 
-<TOS.md>
+Please read the [Terms of Service](TOS.md) before continuing.
