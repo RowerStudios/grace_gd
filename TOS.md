@@ -22,7 +22,6 @@ If we allow people to use stuff that's only meant for Grace GD, they can use it 
 
 If you notice something's off or not quite right, just let us know and we'll fix it. You can get in touch with us by sending an email to **darrosp21028@gmail.com** or by joining our community on Discord at <https://discord.gg/DRGyydFuxb>. We're always here to help and want to make sure everything runs smoothly and securely.
 
-When you want to report someone for doing something wrong, it's a good idea to have some proof to back up what you're saying. If you make a fake report or do it just to hurt someone on purpose, you could get in trouble too. It's always better to be honest and have evidence to support your claim, so you can avoid any problems that might come up.
 
 ## Changes to these terms
 
